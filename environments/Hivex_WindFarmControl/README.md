@@ -2,11 +2,11 @@
 
 ## Main Environment Features
 
-<a href="url"><img src="https://github/com/hivex-research/hivex-environments/master/docs/images/WFC_desc.jpg" width="auto" style="border-radius:10px" alt="Wind Farm Control Environment Features"></a>
+<a href="url"><img src="https://github/com/hivex-research/hivex-environments/blob/main/docs/images/WFC_desc.jpg" width="auto" style="border-radius:10px" alt="Wind Farm Control Environment Features"></a>
 
 ## Process
 
-<a href="url"><img src="https://github/com/hivex-research/hivex-environments/master/docs/images/WFC_process.jpg" width="auto" style="border-radius:10px" alt="Wind Farm Control Environment Process"></a>
+<a href="url"><img src="https://github/com/hivex-research/hivex-environments/blob/main/docs/images/WFC_process.jpg" width="auto" style="border-radius:10px" alt="Wind Farm Control Environment Process"></a>
 
 ## Environment Specifications
 

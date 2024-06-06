@@ -2,30 +2,30 @@ environments:
   - WindFarmControl:
       expected_reward: 0.0
       description: <description-of-the-environment>
-      linux_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/master/environments/Hivex_WindFarmControl/Hivex_WindFarmControl_linux.zip"
+      linux_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/main/environments/Hivex_WindFarmControl/Hivex_WindFarmControl_linux.zip"
       darwin_url: ""
-      win_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/master/environments/Hivex_WindFarmControl/Hivex_WindFarmControl_win.zip"
+      win_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/main/environments/Hivex_WindFarmControl/Hivex_WindFarmControl_win.zip"
   - WildfireResourceManagement:
       expected_reward: 0.0
       description: <description-of-the-environment>
-      linux_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/master/environments/Hivex_WildfireResourceManagement/Hivex_WildfireResourceManagement_linux.zip"
+      linux_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/main/environments/Hivex_WildfireResourceManagement/Hivex_WildfireResourceManagement_linux.zip"
       darwin_url: ""
-      win_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/master/environments/Hivex_WildfireResourceManagement/Hivex_WildfireResourceManagement_win.zip"
+      win_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/main/environments/Hivex_WildfireResourceManagement/Hivex_WildfireResourceManagement_win.zip"
   - DroneBasedReforestation:
       expected_reward: 0.0
       description: <description-of-the-environment>
-      linux_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/master/environments/Hivex_DroneBasedReforestation/Hivex_DroneBasedReforestation_linux.zip"
+      linux_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/main/environments/Hivex_DroneBasedReforestation/Hivex_DroneBasedReforestation_linux.zip"
       darwin_url: ""
-      win_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/master/environments/Hivex_DroneBasedReforestation/Hivex_DroneBasedReforestation_win.zip"
+      win_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/main/environments/Hivex_DroneBasedReforestation/Hivex_DroneBasedReforestation_win.zip"
   - OceanPlasticCollector:
       expected_reward: 0.0
       description: <description-of-the-environment>
-      linux_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/master/environments/Hivex_OceanPlasticCollector/Hivex_OceanPlasticCollector_linux.zip"
+      linux_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/main/environments/Hivex_OceanPlasticCollector/Hivex_OceanPlasticCollector_linux.zip"
       darwin_url: ""
-      win_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/master/environments/Hivex_OceanPlasticCollector/Hivex_OceanPlasticCollector_win.zip"
+      win_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/main/environments/Hivex_OceanPlasticCollector/Hivex_OceanPlasticCollector_win.zip"
   - AerialWildFireSuppression:
       expected_reward: 0.0
       description: ""
-      linux_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/master/environments/Hivex_AerialWildfireSuppression/Hivex_AerialWildfireSuppression_linux.zip"
+      linux_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/main/environments/Hivex_AerialWildfireSuppression/Hivex_AerialWildfireSuppression_linux.zip"
       darwin_url: ""
-      win_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/master/environments/Hivex_AerialWildfireSuppression/Hivex_AerialWildfireSuppression_win.zip"
+      win_url: "https://raw.githubusercontent.com/hivex-research/hivex-environments/main/environments/Hivex_AerialWildfireSuppression/Hivex_AerialWildfireSuppression_win.zip"

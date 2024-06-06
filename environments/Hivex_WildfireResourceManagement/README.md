@@ -2,11 +2,11 @@
 
 ## Main Environment Features
 
-<a href="url"><img src="https://github/com/hivex-research/hivex-environments/master/docs/images/WRM_desc.jpg" width="auto" style="border-radius:10px" alt="Wildfire Resource Management Environment Features"></a>
+<a href="url"><img src="https://github/com/hivex-research/hivex-environments/blob/main/docs/images/WRM_desc.jpg" width="auto" style="border-radius:10px" alt="Wildfire Resource Management Environment Features"></a>
 
 ## Process
 
-<a href="url"><img src="https://github/com/hivex-research/hivex-environments/master/docs/images/WRM_process.jpg" width="auto" style="border-radius:10px" alt="Wildfire Resource Management Environment Process"></a>
+<a href="url"><img src="https://github/com/hivex-research/hivex-environments/blob/main/docs/images/WRM_process.jpg" width="auto" style="border-radius:10px" alt="Wildfire Resource Management Environment Process"></a>
 
 ## Environment Specifications
 
