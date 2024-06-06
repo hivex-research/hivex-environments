@@ -2,11 +2,11 @@
 
 ## Main Environment Features
 
-<a href="url"><img src="https://github/com/hivex-research/hivex-environments/blob/main/docs/images/DBR_desc.jpg" width="auto" style="border-radius:10px" alt="Drone-Based Reforestation Environment Features"></a>
+<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/DBR_desc.jpg" width="auto" style="border-radius:10px" alt="Drone-Based Reforestation Environment Features"></a>
 
 ## Process
 
-<a href="url"><img src="https://github/com/hivex-research/hivex-environments/blob/main/docs/images/DBR_process.jpg" width="auto" style="border-radius:10px" alt="Drone-Based Reforestation Environment Process"></a>
+<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/DBR_process.jpg" width="auto" style="border-radius:10px" alt="Drone-Based Reforestation Environment Process"></a>
 
 ## Environment Specifications
 

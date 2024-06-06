@@ -2,11 +2,11 @@
 
 ## Main Environment Features
 
-<a href="url"><img src="https://github/com/hivex-research/hivex-environments/blob/main/docs/images/OPC_desc.jpg" width="auto" style="border-radius:10px" alt="Ocean Plastic Collection Environment Features"></a>
+<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/OPC_desc.jpg" width="auto" style="border-radius:10px" alt="Ocean Plastic Collection Environment Features"></a>
 
 ## Process
 
-<a href="url"><img src="https://github/com/hivex-research/hivex-environments/blob/main/docs/images/OPC_process.jpg" width="auto" style="border-radius:10px" alt="Ocean Plastic Collection Environment Process"></a>
+<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/OPC_process.jpg" width="auto" style="border-radius:10px" alt="Ocean Plastic Collection Environment Process"></a>
 
 ## Environment Specifications
 

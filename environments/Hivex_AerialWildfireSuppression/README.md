@@ -2,11 +2,11 @@
 
 ## Main Environment Features
 
-<a href="url"><img src="https://github/com/hivex-research/hivex-environments/blob/main/docs/images/AWS_desc.jpg" width="auto" style="border-radius:10px" alt="Aerial Wildfire Suppression Environment Features"></a>
+<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/AWS_desc.jpg" width="auto" style="border-radius:10px" alt="Aerial Wildfire Suppression Environment Features"></a>
 
 ## Process
 
-<a href="url"><img src="https://github/com/hivex-research/hivex-environments/blob/main/docs/images/AWS_process.jpg" width="auto" style="border-radius:10px" alt="Aerial Wildfire Suppression Environment Process"></a>
+<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/AWS_process.jpg" width="auto" style="border-radius:10px" alt="Aerial Wildfire Suppression Environment Process"></a>
 
 ## Environment Specifications
 - Episode Length: 3000
