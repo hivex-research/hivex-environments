@@ -2,11 +2,11 @@
 
 ## Main Environment Features
 
-<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/WRM_desc.jpg" width="auto" style="border-radius:10px" alt="Wildfire Resource Management Environment Features"></a>
+<a href="url"><img src="[ANONYMIZED]" width="auto" style="border-radius:10px" alt="Wildfire Resource Management Environment Features"></a>
 
 ## Process
 
-<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/WRM_process.jpg" width="auto" style="border-radius:10px" alt="Wildfire Resource Management Environment Process"></a>
+<a href="url"><img src="[ANONYMIZED]" width="auto" style="border-radius:10px" alt="Wildfire Resource Management Environment Process"></a>
 
 ## Environment Specifications
 
@@ -15,6 +15,7 @@
 - Neighbour Count: 3
 
 **Vector Observations (8)** - Stacks: 2 - Normalized: True
+
 - Closest Fire Location (3)
 - Temperature (1)
 - Humidity (1)
@@ -22,22 +23,23 @@
 - Total Support (1)
 
 **Discrete Actions (4)**
+
 - Branch 0 - Add/Sub Resource (3):
-    - 0: Do Nothing
-    - 1: Add to Self
-    - 2: Sub from Self
+  - 0: Do Nothing
+  - 1: Add to Self
+  - 2: Sub from Self
 - Branch 1 - Add/Sub Resource (3):
-    - 0: Do Nothing
-    - 1: Add to Neighbour 1
-    - 2: Sub from Neighbour 1
+  - 0: Do Nothing
+  - 1: Add to Neighbour 1
+  - 2: Sub from Neighbour 1
 - Branch 2 - Add/Sub Resource (3):
-    - 0: Do Nothing
-    - 1: Add to Neighbour 2
-    - 2: Sub from Neighbour 2
+  - 0: Do Nothing
+  - 1: Add to Neighbour 2
+  - 2: Sub from Neighbour 2
 - Branch 3 - Add/Sub Resource (3):
-    - 0: Do Nothing
-    - 1: Add to Neighbour 3
-    - 2: Sub from Neighbour 3
+  - 0: Do Nothing
+  - 1: Add to Neighbour 3
+  - 2: Sub from Neighbour 3
 
 ## Rewards
 

@@ -2,11 +2,11 @@
 
 ## Main Environment Features
 
-<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/WFC_desc.jpg" width="auto" style="border-radius:10px" alt="Wind Farm Control Environment Features"></a>
+<a href="url"><img src="[ANONYMIZED]" width="auto" style="border-radius:10px" alt="Wind Farm Control Environment Features"></a>
 
 ## Process
 
-<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/WFC_process.jpg" width="auto" style="border-radius:10px" alt="Wind Farm Control Environment Process"></a>
+<a href="url"><img src="[ANONYMIZED]" width="auto" style="border-radius:10px" alt="Wind Farm Control Environment Process"></a>
 
 ## Environment Specifications
 
@@ -15,15 +15,17 @@
 - Neighbour Count: 0
 
 **Vector Observations (6)** - Stacks: 1 - Normalized: True
+
 - Turbine Location (2)
 - Turbine Direction (2)
 - Wind Direction (2)
 
 **Discrete Actions (1)**
+
 - Branch 0 - Rotate Turbine (3):
-    - 0: Do Nothing
-    - 1: Rotate Left
-    - 2: Rotate Right
+  - 0: Do Nothing
+  - 1: Rotate Left
+  - 2: Rotate Right
 
 ## Rewards
 

@@ -2,18 +2,20 @@
 
 ## Main Environment Features
 
-<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/AWS_desc.jpg" width="auto" style="border-radius:10px" alt="Aerial Wildfire Suppression Environment Features"></a>
+<a href="url"><img src="[ANONYMIZED]" width="auto" style="border-radius:10px" alt="Aerial Wildfire Suppression Environment Features"></a>
 
 ## Process
 
-<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/AWS_process.jpg" width="auto" style="border-radius:10px" alt="Aerial Wildfire Suppression Environment Process"></a>
+<a href="url"><img src="[ANONYMIZED]" width="auto" style="border-radius:10px" alt="Aerial Wildfire Suppression Environment Process"></a>
 
 ## Environment Specifications
+
 - Episode Length: 3000
 - Agent Count: 3
 - Neighbour Count: 0
 
 **Vector Observations (8)** - Stacks: 1 - Normalized: True
+
 - Local Position (2)
 - Direction (2)
 - Holding Water (1)
@@ -21,15 +23,18 @@
 - Closest Tree Burning (1)
 
 **Visual Observations (42, 42, 3)** - Stacks: 1 - Normalized: True
+
 - Downward Pointing Camera in RGB (1764)
 
 **Continous Actions (1)**:
+
 - Steer Left / Right (1)
 
 **Discrete Actions (1)**:
+
 - Branch 0 - Drop Water (2):
-    - 0: Do Nothing
-    - 1: Drop Water
+  - 0: Do Nothing
+  - 1: Drop Water
 
 ## Rewards
 
@@ -46,7 +51,7 @@
 ## Tasks
 
 - **Main Task: Minimize Time Fire Burning and Prevent Fire From Moving Towards Village** - This is the main task of the environment. Goal for the agent is to pick up water, and extinguish as many burning trees as possible, or prepare forest that is not yet burning. A secondary goal is to protect the village from approaching fire by extinguishing burning trees before it gets too close to the village or redirect the fire by preparing trees.
-- **Subtask: Maximize Extinguished Burning Trees** - This is a subtask with the goal to extinguish as many burning trees as possible.  
+- **Subtask: Maximize Extinguished Burning Trees** - This is a subtask with the goal to extinguish as many burning trees as possible.
 - **Subtask: Maximize Preparing Non-Burning Trees** - This is a subtask with the goal to prepare as many non-bruning trees as possible.
 - **Subtask: Minimize Time Fire Burning** - This is a subtask with the goal to minimize the time of trees burning.
 - **Subtask: Protect Village** - This is a subtask with the goal to protect the village from approaching fire.
@@ -54,5 +59,3 @@
 - **Subtask: Drop Water** - This is a subtask with the goal to drop water anywhere.
 - **Subtask: Find Fire** - This is a subtask with the goal to find a burning tree.
 - **Subtask: Find Village** - This is a subtask with the goal to find the village.
-
-

@@ -2,11 +2,11 @@
 
 ## Main Environment Features
 
-<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/DBR_desc.jpg" width="auto" style="border-radius:10px" alt="Drone-Based Reforestation Environment Features"></a>
+<a href="url"><img src="[ANONYMIZED]" width="auto" style="border-radius:10px" alt="Drone-Based Reforestation Environment Features"></a>
 
 ## Process
 
-<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/DBR_process.jpg" width="auto" style="border-radius:10px" alt="Drone-Based Reforestation Environment Process"></a>
+<a href="url"><img src="[ANONYMIZED]" width="auto" style="border-radius:10px" alt="Drone-Based Reforestation Environment Process"></a>
 
 ## Environment Specifications
 
@@ -15,6 +15,7 @@
 - Neighbour Count: $0$
 
 **Vector Observations (10)** - Stacks: 2 - Normalized: True
+
 - Distance to Ground (1)
 - Local Position (3)
 - Direction (3)
@@ -23,17 +24,20 @@
 - Energy Level (1)
 
 **Visual Observations (16, 16, 1)** - Stacks: 1 - Normalized: True
+
 - Downward Pointing Camera in Grayscale (256)
 
 **Continous Actions (3)**
+
 - Throttel (1)
 - Steer (1)
 - Up / Down (1)
 
 **Discrete Actions (1)**
+
 - Branch 0 - Drop Seed (2):
-    - 0: Do Nothing
-    - 1: Drop Seed
+  - 0: Do Nothing
+  - 1: Drop Seed
 
 ## Rewards
 

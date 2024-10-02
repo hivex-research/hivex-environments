@@ -2,11 +2,11 @@
 
 ## Main Environment Features
 
-<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/OPC_desc.jpg" width="auto" style="border-radius:10px" alt="Ocean Plastic Collection Environment Features"></a>
+<a href="url"><img src="[ANONYMIZED]" width="auto" style="border-radius:10px" alt="Ocean Plastic Collection Environment Features"></a>
 
 ## Process
 
-<a href="url"><img src="https://github.com/hivex-research/hivex-environments/blob/main/docs/images/OPC_process.jpg" width="auto" style="border-radius:10px" alt="Ocean Plastic Collection Environment Process"></a>
+<a href="url"><img src="[ANONYMIZED]" width="auto" style="border-radius:10px" alt="Ocean Plastic Collection Environment Process"></a>
 
 ## Environment Specifications
 
@@ -15,21 +15,24 @@
 - Neighbour Count: 1
 
 **Vector Observations (6)** - Stacks: 2 - Normalized: True
+
 - Local Position (2)
 - Direction (2)
 - Closest Neighbouring Vessel (2)
 
 **Visual Observations (25, 25, 1)** - Stacks: 2 - Normalized: True
+
 - Trash (625)
 
 **Discrete Actions (2)**
+
 - Branch 0 - Throttel (2):
-    - 0: Do Nothing
-    - 1: Accelerate
+  - 0: Do Nothing
+  - 1: Accelerate
 - Branch 1 - Steer (3):
-    - 0: Do Nothing
-    - 1: Turn Right
-    - 2: Turn Left
+  - 0: Do Nothing
+  - 1: Turn Right
+  - 2: Turn Left
 
 ## Rewards
 
