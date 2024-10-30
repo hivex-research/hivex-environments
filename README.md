@@ -18,7 +18,7 @@ https://unity-technologies.github.io/ml-agents/Unity-Environment-Registry/
 from mlagents_envs.registry import UnityEnvRegistry
 
 registry = UnityEnvRegistry()
-registry.register_from_yaml("https://raw.githubusercontent.com/hivex-research/hivex-environments/blob/main/hivex_environment_registry.yaml")
+registry.register_from_yaml("https://raw.githubusercontent.com/hivex-research/hivex-environments/main/hivex_environment_registry.yaml")
 # Available tags are:
 # WindFarmControl, WildfireResourceManagement, DroneBasedReforestation, OceanPlasticCollection, AerialWildFireSuppression
 env = registry["environment_tag"].make()
